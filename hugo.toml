@@ -1,4 +1,4 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = "Afthab's thought-provoking thoughts"
-theme = 'ananke'
+theme = 'PaperMod'
