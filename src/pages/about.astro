@@ -3,17 +3,18 @@ import BaseHead from '../components/BaseHead.astro';
 import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
 import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
+const pageTitle = "About Me";
 ---
 
 <!doctype html>
 <html lang="en">
 	<head>
-		<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
+		<BaseHead title={pageTitle} description={SITE_DESCRIPTION} />
 	</head>
 	<body>
 		<Header />
 		<main>
-			<h1>About Me</h1>
+			<h1>{pageTitle}</h1>
 			<p>
 				I'm a CSE grad from NITC who loves FOSS and Anime. I made this site to write about random thoughts that I think deserve 
 				to be written somewhere on the internet, as well as tutorials which I think will help some people out. 
@@ -26,7 +27,9 @@ import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
 				If you're interested in my projects check out my <a href="https://github.com/AfthabEK">GitHub Profile</a>. Also, wwhile you're Here
 				checkout our <a href="https://fosscell.org">club website</a> as well.
 			</p>
-
+			
+			
+			
 		</main>
 		<Footer />
 	</body>
