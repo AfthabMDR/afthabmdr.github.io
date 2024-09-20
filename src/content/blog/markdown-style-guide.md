@@ -1,214 +1,56 @@
 ---
-title: 'Markdown Style Guide'
-description: 'Here is a sample of some basic Markdown syntax that can be used when writing Markdown content in Astro.'
-pubDate: 'Jun 19 2024'
-heroImage: '/blog-placeholder-1.jpg'
+title: 'Why Takaba Fumihiko should be on the list of special grade sorcerers'
+description: 'My takes on why Takaba Fumihiko should be considered a special grade sorcerer, along with Gojo, Geto, and Yuta.'
+pubDate: 'Sep 20 2024'
+heroImage: '/takaba-jujutsu-kaisen.avif'
 ---
 
-Here is a sample of some basic Markdown syntax that can be used when writing Markdown content in Astro.
+##### This article contains spoilers for the manga series Jujutsu Kaisen. If you are an anime-only viewer, please do not read this article.
 
-## Headings
+Takaba Fumihiko is a character from the manga series Jujutsu Kaisen. Initially we all thought he was just a character introduced for comic relief during the culling game arc, but later in the series we got to know how powerful he really is. In this article, I will discuss why Takaba Fumihiko should be considered a special grade sorcerer, along with Gojo, Geto, and Yuta.
 
-The following HTML `<h1>`—`<h6>` elements represent six levels of section headings. `<h1>` is the highest section level while `<h6>` is the lowest.
+### What are grades of sorcerers?
 
-# H1
+In the Jujutsu Kaisen universe, sorcerers and curses are classified into different grades based on their abilities and power levels. 
+Jujutsushis(Jujutsu sorcerers) are assigned to take on curses that are a grade below them. So a grade 1 sorcerer can take on grade 2 curses, but not grade 1 curses(although there are exceptions).
 
-## H2
+The grades of sorcerers are as follows:  
 
-### H3
+**Grade 4:** Weakest tier of sorcerers. Maki Zenin is the only known grade 4 sorcerer in the series, but that's only because her promotion was being delayed by the higher-ups in the Zenin clan.  
 
-#### H4
+**Grade 3:** Mostly students at Jujutsu High. They are still learning and honing their skills. Known grade 3 sorcerers are Kugisaki Nobara and Mai Zenin.  
 
-##### H5
+**Semi-grade 2:** Panda is the only known semi-grade 2 sorcerer in the series. He is a special case because he is a cursed corpse.
+Grade 2: Above average sorcerers. It's considered exceptional for a student to reach this level. Examples are Takuma Ino and Fusiguro Megumi.  
 
-###### H6
+**Semi-grade 1:** Rank for sorcerers who have been recommended for promotion to grade 1. Inumaki Toge, Kamo Noritoshi, Kokichi Muta(Mechamaru), and Utahime Iori come under this category.  
 
-## Paragraph
+**Grade 1:** Highest rank a sorcerer can hope to achive through normal means. They are the elite of the sorcerer world. Most of the fan favorites like Kento Nanami, Mei Mei, and Todo Aoi are grade 1 sorcerers. They are the ones who are fit to lead the jujutsu world, as special grade sorcerers are anomalies. 
 
-Xerum, quo qui aut unt expliquam qui dolut labo. Aque venitatiusda cum, voluptionse latur sitiae dolessi aut parist aut dollo enim qui voluptate ma dolestendit peritin re plis aut quas inctum laceat est volestemque commosa as cus endigna tectur, offic to cor sequas etum rerum idem sintibus eiur? Quianimin porecus evelectur, cum que nis nust voloribus ratem aut omnimi, sitatur? Quiatem. Nam, omnis sum am facea corem alique molestrunt et eos evelece arcillit ut aut eos eos nus, sin conecerem erum fuga. Ri oditatquam, ad quibus unda veliamenimin cusam et facea ipsamus es exerum sitate dolores editium rerore eost, temped molorro ratiae volorro te reribus dolorer sperchicium faceata tiustia prat.
+**Special grade:** Highest tier of sorcerers in the Jujutsu Kaisen universe. They are extremely powerful and have the ability to take on curses that are beyond the capabilities of first grade sorcerers. Special grade sorcerers are rare and are considered to be anomalies in the sorcerer world. The known special grade sorcerers are Gojo Satoru, Geto Suguru, Yuki Tsukumo, and Yuta Okkotsu. Sukuna, the King of Curses, can also be considered a special grade sorcerer at the his time as a normal human.
 
-Itatur? Quiatae cullecum rem ent aut odis in re eossequodi nonsequ idebis ne sapicia is sinveli squiatum, core et que aut hariosam ex eat.
+### What differentiates a special grade sorcerer from a grade 1 sorcerer?
 
-## Images
+A notable distinction to be made between grade 1 and special grade sorcerers is that grade 1 sorcerers are not supposed to take on special grade curses. It's obvious from how Kento Nanami, along with Naobito Zenin, Maki Zenin, and Megumi Fushiguro, were struggling against a single special grade curse, Dagon, in the Shibuya Incident arc, and had to be rescued by the reincarnated Toji Fushiguro.  
 
-### Syntax
+To put it bluntly, special grade sorcerers are ridiculously OP from the get go. They are the ones who can take on special grade curses without breaking a sweat. We can see this from how Gojo delivered his iconic line "You're weak" to Jogo, and ripping his head off like it was nothing, while a group of Grade one sorcerers were almost killed by him.
+Yuta Okkotsu, the protagonist of the prequel series Jujutsu Kaisen 0, finished off Maelstrom, the combination of a special grade curse and all the curses Geto had absorbed, with the help of Rika Orimoto.
+Geto Suguru had the ability to control even special grade curses, making him one of the most dangerous sorcerers in the series. 
 
-```markdown
-![Alt text](./full/or/relative/path/of/image)
-```
+We can summarize the key points that make a special grade sorcerer as follows:
+- Ability to take on special grade curses without much effort.
+- Anomalous power that cannot be attained just by training hard.
 
-### Output
 
-![blog placeholder](/blog-placeholder-about.jpg)
+### Who is Takaba Fumihiko?
+Takaba Fumihiko was an ordinary comedian wothout any special abilities. He was failing in his profession due to his inability to make people laugh. He was introduced in the culling game arc, as one of the many normal humans who were turned into Jujutsu Sorcerers as players.
 
-## Blockquotes
 
-The blockquote element represents content that is quoted from another source, optionally with a citation which must be within a `footer` or `cite` element, and optionally with in-line changes such as annotations and abbreviations.
 
-### Blockquote without attribution
 
-#### Syntax
 
-```markdown
-> Tiam, ad mint andaepu dandae nostion secatur sequo quae.  
-> **Note** that you can use _Markdown syntax_ within a blockquote.
-```
 
-#### Output
 
-> Tiam, ad mint andaepu dandae nostion secatur sequo quae.  
-> **Note** that you can use _Markdown syntax_ within a blockquote.
 
-### Blockquote with attribution
 
-#### Syntax
 
-```markdown
-> Don't communicate by sharing memory, share memory by communicating.<br>
-> — <cite>Rob Pike[^1]</cite>
-```
-
-#### Output
-
-> Don't communicate by sharing memory, share memory by communicating.<br>
-> — <cite>Rob Pike[^1]</cite>
-
-[^1]: The above quote is excerpted from Rob Pike's [talk](https://www.youtube.com/watch?v=PAAkCSZUG1c) during Gopherfest, November 18, 2015.
-
-## Tables
-
-### Syntax
-
-```markdown
-| Italics   | Bold     | Code   |
-| --------- | -------- | ------ |
-| _italics_ | **bold** | `code` |
-```
-
-### Output
-
-| Italics   | Bold     | Code   |
-| --------- | -------- | ------ |
-| _italics_ | **bold** | `code` |
-
-## Code Blocks
-
-### Syntax
-
-we can use 3 backticks ``` in new line and write snippet and close with 3 backticks on new line and to highlight language specific syntax, write one word of language name after first 3 backticks, for eg. html, javascript, css, markdown, typescript, txt, bash
-
-````markdown
-```html
-<!doctype html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8" />
-    <title>Example HTML5 Document</title>
-  </head>
-  <body>
-    <p>Test</p>
-  </body>
-</html>
-```
-````
-
-### Output
-
-```html
-<!doctype html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8" />
-    <title>Example HTML5 Document</title>
-  </head>
-  <body>
-    <p>Test</p>
-  </body>
-</html>
-```
-
-## List Types
-
-### Ordered List
-
-#### Syntax
-
-```markdown
-1. First item
-2. Second item
-3. Third item
-```
-
-#### Output
-
-1. First item
-2. Second item
-3. Third item
-
-### Unordered List
-
-#### Syntax
-
-```markdown
-- List item
-- Another item
-- And another item
-```
-
-#### Output
-
-- List item
-- Another item
-- And another item
-
-### Nested list
-
-#### Syntax
-
-```markdown
-- Fruit
-  - Apple
-  - Orange
-  - Banana
-- Dairy
-  - Milk
-  - Cheese
-```
-
-#### Output
-
-- Fruit
-  - Apple
-  - Orange
-  - Banana
-- Dairy
-  - Milk
-  - Cheese
-
-## Other Elements — abbr, sub, sup, kbd, mark
-
-### Syntax
-
-```markdown
-<abbr title="Graphics Interchange Format">GIF</abbr> is a bitmap image format.
-
-H<sub>2</sub>O
-
-X<sup>n</sup> + Y<sup>n</sup> = Z<sup>n</sup>
-
-Press <kbd>CTRL</kbd> + <kbd>ALT</kbd> + <kbd>Delete</kbd> to end the session.
-
-Most <mark>salamanders</mark> are nocturnal, and hunt for insects, worms, and other small creatures.
-```
-
-### Output
-
-<abbr title="Graphics Interchange Format">GIF</abbr> is a bitmap image format.
-
-H<sub>2</sub>O
-
-X<sup>n</sup> + Y<sup>n</sup> = Z<sup>n</sup>
-
-Press <kbd>CTRL</kbd> + <kbd>ALT</kbd> + <kbd>Delete</kbd> to end the session.
-
-Most <mark>salamanders</mark> are nocturnal, and hunt for insects, worms, and other small creatures.
