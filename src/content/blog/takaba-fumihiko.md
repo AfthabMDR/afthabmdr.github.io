@@ -20,8 +20,9 @@ The grades of sorcerers are as follows:
 
 **Grade 3:** Mostly students at Jujutsu High. They are still learning and honing their skills. Known grade 3 sorcerers are Kugisaki Nobara and Mai Zenin.  
 
-**Semi-grade 2:** Panda is the only known semi-grade 2 sorcerer in the series. He is a special case because he is a cursed corpse.
-Grade 2: Above average sorcerers. It's considered exceptional for a student to reach this level. Examples are Takuma Ino and Fusiguro Megumi.  
+**Semi-grade 2:** Panda is the only known semi-grade 2 sorcerer in the series. He is a special case because he is a cursed corpse.  
+
+**Grade 2:** Above average sorcerers. It's considered exceptional for a student to reach this level. Examples are Takuma Ino and Fusiguro Megumi.  
 
 **Semi-grade 1:** Rank for sorcerers who have been recommended for promotion to grade 1. Inumaki Toge, Kamo Noritoshi, Kokichi Muta(Mechamaru), and Utahime Iori come under this category.  
 
