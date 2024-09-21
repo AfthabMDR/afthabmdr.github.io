@@ -28,7 +28,7 @@ The grades of sorcerers are as follows:
 
 **Grade 1:** Highest rank a sorcerer can hope to achive through normal means. They are the elite of the sorcerer world. Most of the fan favorites like Kento Nanami, Mei Mei, and Todo Aoi are grade 1 sorcerers. They are the ones who are fit to lead the jujutsu world, as special grade sorcerers are anomalies. 
 
-**Special grade:** Highest tier of sorcerers in the Jujutsu Kaisen universe. They are extremely powerful and have the ability to take on curses that are beyond the capabilities of first grade sorcerers. Special grade sorcerers are rare and are considered to be anomalies in the sorcerer world. The known special grade sorcerers are Gojo Satoru, Geto Suguru, Yuki Tsukumo, and Yuta Okkotsu. Sukuna, the King of Curses, can also be considered a special grade sorcerer at the his time as a normal human.
+**Special grade:** Highest tier of sorcerers in the Jujutsu Kaisen universe. They are extremely powerful and have the ability to take on curses that are beyond the capabilities of first grade sorcerers. Special grade sorcerers are rare and are considered to be anomalies in the sorcerer world. The known special grade sorcerers are Gojo Satoru, Geto Suguru, Yuki Tsukumo, and Yuta Okkotsu. Sukuna, the King of Curses, can also be considered a special grade sorcerer before he turned into a curse himself.
 
 ### What differentiates a special grade sorcerer from a grade 1 sorcerer?
 
