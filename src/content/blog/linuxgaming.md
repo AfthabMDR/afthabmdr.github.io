@@ -1,5 +1,5 @@
 ---
-title: Linux Gaming
+title: Gaming on GNU/Linux
 description: A guide to gaming on Linux
 pubDate: 'Sep 21 2024'
 heroImage: '/linuxgaming/protondb.jpg'

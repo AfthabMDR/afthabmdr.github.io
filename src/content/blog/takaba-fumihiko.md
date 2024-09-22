@@ -1,5 +1,5 @@
 ---
-title: 'Why Takaba Fumihiko should be on the list of special grade sorcerers'
+title: '7 reasons why Takaba Fumihiko should be on the list of special grade sorcerers'
 description: 'My takes on why Takaba Fumihiko should be considered a special grade sorcerer, along with Gojo, Geto, and Yuta.'
 pubDate: 'Sep 20 2024'
 heroImage: '/takaba-jujutsu-kaisen.avif'
