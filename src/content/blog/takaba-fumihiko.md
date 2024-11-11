@@ -5,7 +5,7 @@ pubDate: 'Sep 20 2024'
 heroImage: '/takaba-jujutsu-kaisen.avif'
 ---
 
-##### This article contains spoilers for the manga series Jujutsu Kaisen. If you are an anime-only viewer, please do not read this article.
+##### This article contains major spoilers for the manga series Jujutsu Kaisen. If you are an anime-only viewer, please do not read this unsless you don't mind getting spoilers.
 
 Takaba Fumihiko is a character from the manga series Jujutsu Kaisen. Initially we all thought he was just a character introduced for comic relief during the culling game arc, but later in the series we got to know how powerful he really is. In this article, I will discuss why Takaba Fumihiko should be considered a special grade sorcerer, along with Gojo, Geto, and Yuta.
 
@@ -44,11 +44,7 @@ We can summarize the key points that make a special grade sorcerer as follows:
 
 
 ### Who is Takaba Fumihiko?
-Takaba Fumihiko was an ordinary comedian wothout any special abilities. He was failing in his profession due to his inability to make people laugh. He was introduced in the culling game arc, as one of the many normal humans who were turned into Jujutsu Sorcerers as players.
-
-
-
-
+Takaba Fumihiko was introduced in the culling game arc of JJK. He was a failed comedian who turned into a curse user as a player for the culling game. He has a goofy aa personality, and his jokes weren't funny to most people. Most cursed techniques given to non curse users during the culling game was based on the person's emotions and situations. For example, Hiruguma Hito, a defense attorney with a strong sense of justice, got the cursed technique based on court trials, with a shikigami as the judge. In the case of Takaba, his cursed technique was based on his desire to make people laugh. He could make a joke out of anything, and literally anything. Simple as that. Which is also what makes his cursed technique so powerful.
 
 
 
